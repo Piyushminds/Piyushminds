@@ -1,3 +1,4 @@
+![PiyushMinds Banner](./banner.png)
 # 👋 Hey, I'm Piyush!
 
 ### 💻 Developer | 🎮 Gamer | 🚀 Creator
